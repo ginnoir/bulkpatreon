@@ -364,7 +364,7 @@
 	}
    ],
    "socket": true,
-   "manifest": "Data/patreonlinks/module.json",
+   "manifest": "https://raw.githubusercontent.com/ginnoir/foundry/main/module.json?token=GHSAT0AAAAAABTDQEJWPOF2V3J6WR2FN76GYSGVLKQ",
    "download": "",
    "protected": false,
    "coreTranslation": false
