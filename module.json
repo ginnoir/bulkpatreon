@@ -374,7 +374,7 @@
 	}
 ],
   "url": "",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://github.com/ginnoir/foundry/releases/download/bulkpatreon/module.json",
+  "download": "https://github.com/ginnoir/foundry/releases/download/bulkpatreon/bulkpatreon.zip",
   "manifestPlusVersion": "1.2.0"
 }
