@@ -364,8 +364,8 @@
 	}
    ],
    "socket": true,
-   "manifest": "https://raw.githubusercontent.com/ginnoir/foundry/main/module.json?token=GHSAT0AAAAAABTDQEJXVA5SUQTK6OUL2APYYSGVQEA",
-   "download": "https://github.com/ginnoir/foundry/raw/main/patreonlinks.zip",
+   "manifest": "https://github.com/ginnoir/foundry/releases/download/bulkpatreon/module.json"
+   "download": "https://github.com/ginnoir/foundry/releases/download/bulkpatreon/module.zip",
    "protected": false,
    "coreTranslation": false
 }
