@@ -364,7 +364,7 @@
 	}
    ],
    "socket": true,
-   "manifest": "https://github.com/ginnoir/foundry/releases/download/bulkpatreon/module.json"
+   "manifest": "https://github.com/ginnoir/foundry/releases/download/bulkpatreon/module.json",
    "download": "https://github.com/ginnoir/foundry/releases/download/bulkpatreon/module.zip",
    "protected": false,
    "coreTranslation": false
